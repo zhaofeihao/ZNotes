@@ -4,3 +4,5 @@
 1. [React 事件处理 -- 有关各种事件绑定方式的使用](https://github.com/zhaofeihao/ZNotes/issues/1#issue-452859126)
 
 2. [CSS3 pointer-events 属性小结](https://github.com/zhaofeihao/ZNotes/issues/2#issue-453967256)
+
+3. [前端开发也要掌握一点儿 Linux 基础命令](https://github.com/zhaofeihao/ZNotes/issues/3#issue-454991232)
