@@ -10,3 +10,5 @@
 4. [React 中父组件获取子组件数据 / 调用子组件方法](https://github.com/zhaofeihao/ZNotes/issues/4)
 
 5. [CSS 绘制三角形和箭头](https://github.com/zhaofeihao/ZNotes/issues/6)
+
+6. [对象数组形式的数据筛选](https://github.com/zhaofeihao/ZNotes/issues/7)
