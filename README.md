@@ -12,3 +12,5 @@
 5. [CSS 绘制三角形和箭头](https://github.com/zhaofeihao/ZNotes/issues/6)
 
 6. [对象数组形式的数据筛选](https://github.com/zhaofeihao/ZNotes/issues/7)
+
+7. [HTML+CSS绘制移动端优惠券组件](https://github.com/zhaofeihao/ZNotes/issues/8)
